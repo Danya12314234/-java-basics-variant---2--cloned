@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        //Массив температур оборудования
         int[] temperatures = {75, 78, 82, 79, 85, 77, 81, 76, 83, 74};
 
         double sum = 0; 
